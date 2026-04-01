@@ -15,6 +15,8 @@ public class GithubExample {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        String name;
     }
     
 }
